@@ -23,7 +23,8 @@ values,vectors = np.linalg.eig(A)
 print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 ## Output:
-![Screenshot (26)](https://user-images.githubusercontent.com/118708624/213873304-aee95d4b-a78a-4c15-858d-c2b1fb24acc3.png)
+![image](https://user-images.githubusercontent.com/118708624/213919422-1571a098-1587-4510-920a-28e87988b215.png)
+
 
 
 ## Result:
